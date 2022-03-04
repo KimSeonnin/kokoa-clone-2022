@@ -1,5 +1,4 @@
 # kakao clone 2022 update
 
-CSS got so much better
 
-HTML $ CSS are so much fun!
+HTML & CSS are so much fun!
