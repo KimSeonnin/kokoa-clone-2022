@@ -1,3 +1,3 @@
-#kakao clone 2022 update
+# kakao clone 2022 update
 
 CSS got so much better
